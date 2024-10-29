@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shinjan5
 - 👀 I’m interested in becoming a full stack developer
-- 🌱 I’m currently learning C+= along with JS ( Front End)
+- 🌱 I’m currently learning CPP and exploring ML at the same time 
 - 💞️ I’m looking to collaborate on C++ and  front end projects
 - 📫Dm me on shinzz_28 (instagram)
 
