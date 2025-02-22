@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @shinjan5
-- 👀 I’m interested in becoming a full stack developer
+- 👋 Hi, I’m Shinjan Sinha 
+- 👀 I’m interested in MLOps  
 - 🌱 I’m currently learning CPP and exploring ML at the same time 
-- 💞️ I’m looking to collaborate on C++ and  front end projects
-- 📫Dm me on shinzz_28 (instagram)
+- I’m looking to collaborate on C++ , Python and ML related projects. 
+
 
 
 
