@@ -1,85 +1,59 @@
-Hi, I’m Shinjan Sinha 👋
+# Hi, I’m Shinjan Sinha 👋
 
-AI Builder | Student | Research-Driven Developer
+**AI Builder | Student | Agentic & Generative AI Enthusiast**
 
-I work at the intersection of Agentic AI, Computer Vision, Machine Learning, and Generative AI, building practical and intelligent systems that solve real-world problems.
+I build practical, research-driven systems at the intersection of  
+**Agentic AI, Computer Vision, Machine Learning, and Generative AI**.
 
-I’m especially interested in autonomous AI agents, vision-based applications, and LLM-powered tools.
+---
 
-🚀 About Me
+## 📊 GitHub Stats
 
-🎓 Student exploring advanced AI and ML systems
+![Profile Views](https://komarev.com/ghpvc/?username=your-username&color=blue)
+![GitHub followers](https://img.shields.io/github/followers/your-username?label=Followers&style=social)
+![GitHub stars](https://img.shields.io/github/stars/your-username?label=Stars&style=social)
 
-🤖 Focused on Agentic AI and Generative AI
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact)
 
-🧠 Interested in intelligent, autonomous workflows
+---
 
-🔬 Building research-oriented and production-style projects
+## 🔍 Interests
+- Agentic AI systems
+- Computer Vision
+- Real-world ML applications
+- Generative AI & LLM systems
+- AI automation tools
 
-🌱 Continuously learning and experimenting in public
+---
 
-🔍 Core Interests
+## 🛠 Tech Stack
 
-Agentic AI systems and autonomous workflows
+**Languages**  
+Python • TypeScript • JavaScript  
 
-Computer Vision applications
+**Frameworks & Tools**  
+PyTorch • Scikit-learn • OpenCV  
+LangChain & LLM frameworks  
+Git • GitHub • Linux • VS Code  
 
-Real-world Machine Learning solutions
+---
 
-Generative AI and LLM-based systems
+## 📚 Current Focus
+- Building GenAI and agentic AI projects
+- Research in vision and autonomous systems
+- Exploring advanced ML and LLM architectures
 
-AI-powered automation tools
+---
 
-🛠️ Tech Stack
-Languages
+## 🎯 Open To
+- Internships in **GenAI, Agentic AI, or Computer Vision**
+- Research or open-source collaborations
 
-Python
+---
 
-TypeScript
+## 📫 Connect: 
+- LinkedIn: https://shorturl.at/sI89n
 
-JavaScript
+⭐ *Always building and learning in public.*
 
-Frameworks & Libraries
-
-PyTorch
-
-Scikit-learn
-
-OpenCV
-
-LangChain & LLM frameworks
-
-Tools
-
-Git & GitHub
-
-Linux / CLI tools
-
-VS Code
-
-📚 Currently Working On
-
-Building AI and GenAI-focused projects
-
-Developing agentic systems and vision models
-
-Exploring advanced ML and LLM architectures
-
-Writing and contributing to research-driven projects
-
-🎯 Looking For
-
-Internships in Generative AI, Agentic AI, or Computer Vision
-
-Research or open-source collaborations
-
-Opportunities to build impactful AI products
-
-📫 Connect With Me on X and Linkedin
-
-
-
-<!---
-shinjan5/shinjan5 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
