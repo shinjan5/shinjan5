@@ -1,59 +1,40 @@
-# Hi, I’m Shinjan Sinha 👋
+# Hi, I'm Shinjan Sinha 👋
 
-**AI Builder | Student | Agentic & Generative AI Enthusiast**
+**Agentic AI Architect** | Pre-Final Year @ Netaji Subhash Engineering College
 
-I build practical, research-driven systems at the intersection of  
-**Agentic AI, Computer Vision, Machine Learning, and Generative AI**.
-
----
-
-## 📊 GitHub Stats
-
-![Profile Views](https://komarev.com/ghpvc/?username=your-username&color=blue)
-![GitHub followers](https://img.shields.io/github/followers/your-username?label=Followers&style=social)
-![GitHub stars](https://img.shields.io/github/stars/your-username?label=Stars&style=social)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact)
+I work at the intersection of **Agentic AI**, **Computer Vision**, and **Quantum Computing**, building autonomous systems that reason, plan, and act in the real world.
 
 ---
 
-## 🔍 Interests
-- Agentic AI systems
-- Computer Vision
-- Real-world ML applications
-- Generative AI & LLM systems
-- AI automation tools
+### 🔭 What I'm working on
+
+- Designing and deploying **agentic AI architectures** for real-world applications
+- Exploring the intersection of **agentic AI and quantum computing**
+- Actively looking for **internship opportunities** where I can contribute to meaningful work, learn from experienced teams, and grow through real-world projects
+- Open to **collaborations, research discussions**, and anything that pushes the boundaries of what we can build with AI
+
+### 📄 Publications
+
+- **"Agentic AI and Computer Vision for Smart Parking Spaces"**
+  34th IEEE/ACIS International Conference on Software Engineering, Artificial Intelligence, Networking and Parallel/Distributed Computing (SNPD 2026) — Okayama, Japan
+
+### 💼 Experience
+
+- **ISI Kolkata** — Intern, working on Applied ML, MLOps, and Data Science
+
+### 🏆 Achievements
+
+- 🥈🥈 2x Silver, Robotics — Srijan 2025, Jadavpur University's Official Tech Fest
+
+### ✍️ Content
+
+I actively share my learnings on **X (Twitter)** — threads on practical ML/DL concepts, model optimisation, architectures, and hands-on implementation.
+
+### 📫 Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shinjan-sinha-715493323/)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Shinjan_Sinha)
 
 ---
 
-## 🛠 Tech Stack
-
-**Languages**  
-Python • TypeScript • JavaScript  
-
-**Frameworks & Tools**  
-PyTorch • Scikit-learn • OpenCV  
-LangChain & LLM frameworks  
-Git • GitHub • Linux • VS Code  
-
----
-
-## 📚 Current Focus
-- Building GenAI and agentic AI projects
-- Research in vision and autonomous systems
-- Exploring advanced ML and LLM architectures
-
----
-
-## 🎯 Open To
-- Internships in **GenAI, Agentic AI, or Computer Vision**
-- Research or open-source collaborations
-
----
-
-## 📫 Connect: 
-- LinkedIn: https://shorturl.at/sI89n
-
-⭐ *Always building and learning in public.*
-
+<p align="center"><i>Always building, always learning.</i></p>
