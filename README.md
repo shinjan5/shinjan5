@@ -2,14 +2,14 @@
 
 **Agentic AI Architect** | Pre-Final Year @ Netaji Subhash Engineering College
 
-I work at the intersection of **Agentic AI**, **Computer Vision**, and **Quantum Computing**, building autonomous systems that reason, plan, and act in the real world.
+I work at the intersection of **LangChain**, **LangGraph**, and **Agentic Rag**, building autonomous systems that reason, plan, and act in the real world.
 
 ---
 
 ### 🔭 What I'm working on
 
-- Designing and deploying **agentic AI architectures** for real-world applications
-- Exploring the intersection of **agentic AI and quantum computing**
+- Designing and deploying **agentic AI architectures using LangGraph** for real-world applications
+- Exploring the intersection of **agentic AI and Computer Vision**
 - Actively looking for **internship opportunities** where I can contribute to meaningful work, learn from experienced teams, and grow through real-world projects
 - Open to **collaborations, research discussions**, and anything that pushes the boundaries of what we can build with AI
 
