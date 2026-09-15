@@ -20,7 +20,7 @@ I work at the intersection of **Agentic AI**, **Computer Vision**, and **Quantum
 
 ### 💼 Experience
 
-- **ISI Kolkata** — Intern, working on Applied ML, MLOps, and Data Science
+- **ISI Kolkata** — Intern, worked on Applied ML, MLOps, and Data Science
 
 ### 🏆 Achievements
 
