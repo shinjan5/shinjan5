@@ -15,7 +15,7 @@ I work at the intersection of **Agentic AI**, **Computer Vision**, and **Quantum
 
 ### 📄 Publications
 
-- **"Agentic AI and Computer Vision for Smart Parking Spaces"**
+- **"DeepPark: AN LLM Driven End to End Multi-Agent Autonomous Smart Parking System with Digital Twin Synchronisation"**
   34th IEEE/ACIS International Conference on Software Engineering, Artificial Intelligence, Networking and Parallel/Distributed Computing (SNPD 2026) — Okayama, Japan
 
 ### 💼 Experience
